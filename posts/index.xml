@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Giga test</title>
-    <link>http://diegofreijo.github.io/posts/</link>
+    <link>https://diegofreijo.github.io/posts/</link>
     <description>Recent content in Posts on Giga test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2019 13:13:41 -0300</lastBuildDate>
     
-	<atom:link href="http://diegofreijo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegofreijo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hola</title>
-      <link>http://diegofreijo.github.io/posts/hola/</link>
+      <link>https://diegofreijo.github.io/posts/hola/</link>
       <pubDate>Thu, 18 Jul 2019 13:13:41 -0300</pubDate>
       
-      <guid>http://diegofreijo.github.io/posts/hola/</guid>
+      <guid>https://diegofreijo.github.io/posts/hola/</guid>
       <description>que tal</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://diegofreijo.github.io/posts/my-first-post/</link>
+      <link>https://diegofreijo.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>http://diegofreijo.github.io/posts/my-first-post/</guid>
+      <guid>https://diegofreijo.github.io/posts/my-first-post/</guid>
       <description>hola que tal</description>
     </item>
     
