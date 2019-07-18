@@ -20,14 +20,5 @@
       <description>que tal</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://diegofreijo.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
-      
-      <guid>https://diegofreijo.github.io/posts/my-first-post/</guid>
-      <description>hola que tal</description>
-    </item>
-    
   </channel>
 </rss>
