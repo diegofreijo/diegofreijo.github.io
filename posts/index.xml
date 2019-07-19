@@ -17,7 +17,8 @@
       <pubDate>Thu, 18 Jul 2019 13:13:41 -0300</pubDate>
       
       <guid>https://diegofreijo.github.io/posts/hola/</guid>
-      <description>que tal</description>
+      <description>que tal
+git pull import fruta def hola() pass &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; </description>
     </item>
     
   </channel>
